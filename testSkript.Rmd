@@ -1,5 +1,5 @@
 ---
-title: "testSkript"
+title: "newTitle"
 author: "Yannick Rothacher"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: pdf_document
